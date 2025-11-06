@@ -184,6 +184,27 @@ main {
     box-shadow: 0 2px 8px rgba(255, 255, 255, 0.3);
 }
 
+.suggest-button {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    background: #222222;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: 2px solid #444444;
+    border-radius: 25px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    font-size: 1rem;
+    box-shadow: 0 0 5px rgba(255, 255, 255, 0.5);
+}
+
+.suggest-button:hover {
+    background: #333333;
+    border-color: #ffffff;
+    box-shadow: 0 0 15px rgba(255, 255, 255, 1);
+}
+
 @media (max-width: 600px) {
     h1 {
         font-size: 2rem;

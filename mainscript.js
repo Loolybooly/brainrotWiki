@@ -36,8 +36,23 @@ const brainrotTerms = [
     },
     {
         name: 'Mango',
-        description: "Originating from a skit by a random Indian, where he poures mangos on himself, and it gets turned into a phonk",
+        description: "Mango, originating from a skit by a random Indian, where he poures mangos on himself, and it gets turned into a phonk",
         link: 'mango.html'
+    },
+    {
+        name: 'Gyatt',
+        description: "Gyatt, originating around the same time as skibidi and sigma",
+        link: 'gyatt.html'
+    },
+    {
+        name: 'Goon',
+        description: "Goon, originating not long ago",
+        link: 'goon.html'
+    },
+    {
+        name: 'Twin',
+        description: "Twin, originating sometime in late 2024 to early 2025",
+        link: 'twin.html'
     }
 ];
 
