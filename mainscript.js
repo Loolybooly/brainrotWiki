@@ -119,6 +119,16 @@ const brainrotTerms = [
         description: "Nonchalant, originating around late 2024 when vexbolts was popular",
         link: 'nonchalant.html'
     },
+    {
+        name: 'Ratio',
+        description: "Ratio, originating around when Twitter got popular",
+        link: 'ratio.html'
+    },
+    {
+        name: 'Unc',
+        description: "Unc, originating early 2025 when 2007 people turned 18",
+        link: 'unc.html'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
