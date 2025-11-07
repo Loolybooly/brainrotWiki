@@ -1,32 +1,32 @@
 const brainrotTerms = [
     {
         name: 'Skibidi',
-        description: 'Skibidi, originated from the YouTube series by DaFuq!?Boom!, Skibidi Toilet',
+        description: 'Skibidi, originatingfrom the YouTube series by DaFuq!?Boom!, Skibidi Toilet, around 2022',
         link: 'skibidi.html'
     },
     {
         name: 'Rizz',
-        description: "Rizz, another word for charisma, originated from Kai Cenat",
+        description: "Rizz, originating from Kai Cenat",
         link: 'rizz.html'
     },
     {
         name: 'Sigma',
-        description: "A lone wolf, someone who doesn't need help from others",
+        description: "Sigma, originating around 2022",
         link: 'sigma.html'
     },
     {
         name: 'Mewing',
-        description: "Improving/flexing your jaw",
+        description: "Rizz, originating around 2022 like skibidi and sigma",
         link: 'mewing.html'
     },
     {
         name: 'Looksmaxxing',
-        description: "Similar to mewing, but instead of improving just the jaw, you improve your whole body",
+        description: "Looksmaxxing, originating around late 2024",
         link: 'looksmaxxing.html'
     },
     {
         name: '67',
-        description: "67, originated from a kid (known as the 6'7 kid) saying 6'7 from Michael Jordan's height being 6'7",
+        description: "67, originating from a kid (known as the 6'7 kid) saying 6'7 from Michael Jordan's height being 6'7",
         link: '67.html'
     },
     {
@@ -53,7 +53,72 @@ const brainrotTerms = [
         name: 'Twin',
         description: "Twin, originating sometime in late 2024 to early 2025",
         link: 'twin.html'
-    }
+    },
+    {
+        name: 'Sybau',
+        description: "Sybau, originating early 2024",
+        link: 'sybau.html'
+    },
+    {
+        name: 'Fanum tax',
+        description: "Fanum tax, originating around the same time as sigma, skibidi, and mewing",
+        link: 'fanumtax.html'
+    },
+    {
+        name: 'Cooked',
+        description: "Cooked, originating mid 2024",
+        link: 'cooked.html'
+    },
+    {
+        name: 'Huzz',
+        description: "Huzz, originating around late 2024",
+        link: 'huzz.html'
+    },
+    {
+        name: 'Slop',
+        description: "Slop, originating early-mid 2025",
+        link: 'slop.html'
+    },
+    {
+        name: 'Cracked',
+        description: "Cracked, originating early 2025",
+        link: 'cracked.html'
+    },
+    {
+        name: 'Fine shyt',
+        description: "Fine shyt, originating mid 2025",
+        link: 'fineshyt.html'
+    },
+    {
+        name: 'Ragebait',
+        description: "Ragebait, originating early-mid 2025",
+        link: 'ragebait.html'
+    },
+    {
+        name: 'Blud',
+        description: "Blud, originating around when P.Diddy got... yk",
+        link: 'blud.html'
+    },
+    {
+        name: 'Aura',
+        description: "Aura, originating early-mid 2024",
+        link: 'aura.html'
+    },
+    {
+        name: 'Yap',
+        description: "Yap, originating late 2024 (Around when Trump got elected)",
+        link: 'yap.html'
+    },
+    {
+        name: 'Based',
+        description: "Based, originating around mid 2024, but has been around for a few years prior",
+        link: 'based.html'
+    },
+    {
+        name: 'Nonchalant',
+        description: "Nonchalant, originating around late 2024 when vexbolts was popular",
+        link: 'nonchalant.html'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
