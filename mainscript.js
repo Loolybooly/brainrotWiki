@@ -144,6 +144,11 @@ const brainrotTerms = [
         description: "1, originating a few weeks ago (as of November 8th, 2025) from Diem",
         link: '1.html'
     },
+    {
+        name: 'Chopped',
+        description: "Chopped, originating mid 2024, resurfaced late 2024 with the chopped chin meme, and is still being used",
+        link: 'chopped.html'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
