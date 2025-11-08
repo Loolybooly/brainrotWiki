@@ -46,7 +46,7 @@ const brainrotTerms = [
     },
     {
         name: 'Goon',
-        description: "Goon, originating not long ago",
+        description: "Goon, originating early 2025 ",
         link: 'goon.html'
     },
     {
@@ -128,6 +128,21 @@ const brainrotTerms = [
         name: 'Unc',
         description: "Unc, originating early 2025 when 2007 people turned 18",
         link: 'unc.html'
+    },
+    {
+        name: '41',
+        description: "41, originating mid 2025 with 67, and 61",
+        link: '41.html'
+    },
+    {
+        name: '61',
+        description: "61, originating mid 2025 with 67 and 41",
+        link: '61.html'
+    },
+    {
+        name: '1',
+        description: "1, originating a few weeks ago (as of November 8th, 2025) from Diem",
+        link: '1.html'
     },
 ];
 
