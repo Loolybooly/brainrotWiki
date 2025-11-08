@@ -26,7 +26,7 @@ const brainrotTerms = [
     },
     {
         name: '67',
-        description: "67, originating from a kid (known as the 6'7 kid) saying 6'7 from Michael Jordan's height being 6'7",
+        description: "67, originating from a song by Skrilla, and spread through social media after a kid said '67' at a basketball game and shared it online (Thank you Wikipedia)",
         link: '67.html'
     },
     {
