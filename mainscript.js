@@ -1,7 +1,7 @@
 const brainrotTerms = [
     {
         name: 'Skibidi',
-        description: 'Skibidi, originatingfrom the YouTube series by DaFuq!?Boom!, Skibidi Toilet, around 2022',
+        description: 'Skibidi, originating from the YouTube series by DaFuq!?Boom!, Skibidi Toilet, around 2022',
         link: 'skibidi.html'
     },
     {
@@ -148,6 +148,41 @@ const brainrotTerms = [
         name: 'Chopped',
         description: "Chopped, originating mid 2024, resurfaced late 2024 with the chopped chin meme, and is still being used",
         link: 'chopped.html'
+    },
+    {
+        name: 'Cook',
+        description: "Cook, originating around 2023 and is STILL being used to this day!",
+        link: 'cook.html'
+    },
+    {
+        name: 'Crack',
+        description: "Crack, originating early-mid 2025 (not to be confused with cracked, or the drugs)",
+        link: 'crack.html'
+    },
+    {
+        name: 'Clanker',
+        description: "Crack, originating mid 2025",
+        link: 'clanker.html'
+    },
+    {
+        name: 'Glaze',
+        description: "Glaze, originating 2021",
+        link: 'glaze.html'
+    },
+    {
+        name: 'Cap',
+        description: "Cap, originating early 20th century (1900s) and resurfaced around the covid 19 times",
+        link: 'cap.html'
+    },
+    {
+        name: 'Dih',
+        description: "Dih, originating mid 2024",
+        link: 'dih.html'
+    },
+    {
+        name: 'Bet',
+        description: "Bet, originating mid 2010s",
+        link: 'bet.html'
     },
 ];
 
