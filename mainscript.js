@@ -184,6 +184,16 @@ const brainrotTerms = [
         description: "Bet, originating mid 2010s",
         link: 'bet.html'
     },
+    {
+        name: 'Deadass',
+        description: "Deadass, originating 1993 by Fat Joe (I wonder if hes fat)",
+        link: 'deadass.html'
+    },
+    {
+        name: 'On god',
+        description: "On god, originating in 2005",
+        link: 'ongod.html'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
