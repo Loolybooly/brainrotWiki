@@ -10,6 +10,18 @@ body {
     color: #ffffff;
     background: #000000;
     min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+.centered-wrapper {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0 2rem;
+    box-sizing: border-box;
 }
 
 header {
@@ -17,6 +29,7 @@ header {
     padding: 2rem 1rem;
     background: #111111;
     border-bottom: 2px solid #333333;
+    position: relative;
 }
 
 h1 {
