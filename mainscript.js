@@ -194,6 +194,21 @@ const brainrotTerms = [
         description: "On god, originating in 2005",
         link: 'ongod.html'
     },
+    {
+        name: 'GG',
+        description: "GG, originating in 2018",
+        link: 'gg.html'
+    },
+    {
+        name: 'W',
+        description: "W, originating 1983 and popularized ~2018-2019 because of Twitch/Fortnite/Twitter",
+        link: 'w.gg'
+    },
+    {
+        name: 'Bag',
+        description: "Bag, originating mid 2000s as hip-hop slang",
+        link: 'bag.gg'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
