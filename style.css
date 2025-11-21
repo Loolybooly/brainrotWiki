@@ -190,18 +190,6 @@ main {
     position: relative;
 }
 
-.origin-section::before {
-    content: "📜";
-    position: absolute;
-    left: -10px;
-    top: 10px;
-    font-size: 1.2rem;
-    background: #000;
-    padding: 5px;
-    border-radius: 50%;
-    border: 2px solid #ff6b6b;
-}
-
 .meaning-section {
     border-left: 6px solid #4ecdc4;
     padding-left: 1.5rem;
@@ -209,35 +197,11 @@ main {
     position: relative;
 }
 
-.meaning-section::before {
-    content: "💡";
-    position: absolute;
-    left: -10px;
-    top: 10px;
-    font-size: 1.2rem;
-    background: #000;
-    padding: 5px;
-    border-radius: 50%;
-    border: 2px solid #4ecdc4;
-}
-
 .examples-section {
     border-left: 6px solid #ffe66d;
     padding-left: 1.5rem;
     background: linear-gradient(90deg, rgba(255, 230, 109, 0.15) 0%, rgba(255, 230, 109, 0.05) 100%);
     position: relative;
-}
-
-.examples-section::before {
-    content: "💬";
-    position: absolute;
-    left: -10px;
-    top: 10px;
-    font-size: 1.2rem;
-    background: #000;
-    padding: 5px;
-    border-radius: 50%;
-    border: 2px solid #ffe66d;
 }
 
 .example {
