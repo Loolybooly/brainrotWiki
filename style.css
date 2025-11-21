@@ -183,27 +183,6 @@ main {
     border-bottom: 2px solid #aaaaaa !important;
 }
 
-.origin-section {
-    border-left: 6px solid #ff6b6b;
-    padding-left: 1.5rem;
-    background: linear-gradient(90deg, rgba(255, 107, 107, 0.15) 0%, rgba(255, 107, 107, 0.05) 100%);
-    position: relative;
-}
-
-.meaning-section {
-    border-left: 6px solid #4ecdc4;
-    padding-left: 1.5rem;
-    background: linear-gradient(90deg, rgba(78, 205, 196, 0.15) 0%, rgba(78, 205, 196, 0.05) 100%);
-    position: relative;
-}
-
-.examples-section {
-    border-left: 6px solid #ffe66d;
-    padding-left: 1.5rem;
-    background: linear-gradient(90deg, rgba(255, 230, 109, 0.15) 0%, rgba(255, 230, 109, 0.05) 100%);
-    position: relative;
-}
-
 .example {
     background: #222222;
     padding: 1rem;
