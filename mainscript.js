@@ -209,6 +209,11 @@ const brainrotTerms = [
         description: "Bag, originating mid 2000s as hip-hop slang",
         link: 'bag.gg'
     },
+    {
+        name: 'Cope',
+        description: "Cope, originating 2013-2015s and peaking in the 2020s on Twitter",
+        link: 'cope.gg'
+    },
 ];
 
 document.addEventListener('DOMContentLoaded', function() {
